@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou a Betina Maciel 👋
 
-<!--
-**betinalima-gif/betinalima-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante da área de TI, em busca de aprender e crescer na tecnologia.
 
-Here are some ideas to get you started:
+## 🎯 Áreas de interesse
+- Tecnologia da Informação
+- Versionamento com Git e GitHub
+- Segurança e boas práticas
+- Desenvolvimento de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e ferramentas
+Git · GitHub · SSH
+
+## 🌱 Atualmente
+- Aprendendo fluxo de trabalho com branches e Pull Requests
+- Praticando resolução de conflitos no GitHub
+
+## 📫 Contato
+- E-mail: Betina.lima@ba.estudante.senai.br
